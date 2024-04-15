@@ -1,0 +1,2 @@
+Linear Regression using Gradient Descent from scratch using only the maths from the book "The StatQuest Illustrated guide to Machine Learning" from Josh Starmer
+![gradient_descent.gif](gradient_descent.gif)
